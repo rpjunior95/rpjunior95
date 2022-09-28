@@ -23,4 +23,4 @@ ___________________________________________
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rpjunior95/count.svg" /></p>
 </br>
-![snake gif](https://github.com/rpjunior95/rpjunior95/blob/output/github-contribution-grid-snake.svg)
+[![snake gif](https://github.com/rpjunior95/rpjunior95/blob/output/github-contribution-grid-snake.svg)]
