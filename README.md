@@ -1,7 +1,7 @@
 ### Hi, I'm Ronaldo Peixoto!✌️
 ___________________________________________
 
-<p align="left">   <img alingn="center" src="https://komarev.com/ghpvc/?username=rpjunior95&color=blue" alt="Profile views" /> </p>
+<p align="center">   <img alingn="center" src="https://komarev.com/ghpvc/?username=rpjunior95&color=blue" alt="Profile views" /> </p>
 
 #### About me:
 
