@@ -1,6 +1,8 @@
 ### Hi, I'm Ronaldo Peixoto!✌️
 ___________________________________________
 
+<p align="left">   <img alingn="center" src="https://komarev.com/ghpvc/?username=rpjunior95&color=blue" alt="Profile views" /> </p>
+
 #### About me:
 
 #### 📍 I'm based in São Paulo, Brazil
@@ -20,7 +22,8 @@ ___________________________________________
 ![Ronaldo Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=rpjunior95&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpjunior95&layout=compact)](https://github.com/rpjunior95/github-readme-stats)
-</br>
 
-<p align="left">   <img alingn="center" src="https://komarev.com/ghpvc/?username=rpjunior95&color=blue" alt="Profile views" /> </p>
+
+
+
 
