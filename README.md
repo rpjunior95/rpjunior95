@@ -20,3 +20,7 @@ ___________________________________________
 ![Ronaldo Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=rpjunior95&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpjunior95&layout=compact)](https://github.com/rpjunior95/github-readme-stats)
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rpjunior95/count.svg" /></p>
+</br>
+![snake gif](https://github.com/rpjunior95/rpjunior95/blob/output/github-contribution-grid-snake.svg)
