@@ -19,9 +19,9 @@ ___________________________________________
 
 #### My stats:
 
-![Ronaldo Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=rpjunior95&show_icons=true&theme=default)
+![Ronaldo Peixoto GitHub stats](https://github-readme-stats.vercel.app/api?username=rpjunior95&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpjunior95&layout=compact)](https://github.com/rpjunior95/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpjunior95&layout=compact)](https://github.com/rpjunior95/github-readme-stats)
+
 
 
 
